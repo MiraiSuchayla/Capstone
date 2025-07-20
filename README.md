@@ -1,11 +1,10 @@
 # Capstone
 
 # Hi! Welcome to my first repository
-
-Here, I'd like to share my project from the data science bootcamp learning in Purwadhika
+Here, I'd like to share one of my projects developed during the Purwadhika Digital School’s Data Science and Machine Learning Course. This is a mini application built using Python, designed to simulate simple yet insightful activities in commodity trading
 
 # Commodity Trading - Mini Python Application
-This is a Python-based mini project developed during my time in the Data Science Bootcamp at Purwadhika. The goal of this project is to simulate basic operations in commodity trading, giving users an interactive way to manage virtual assets while practicing Python programming fundamentals.
+This Python-based mini project is to simulate basic operations in commodity trading, giving users an interactive way to manage virtual assets while practicing Python programming fundamentals.
 
 This application allows users to do activities in commodity trading, including: 
 1. Read the commodity watchlist
