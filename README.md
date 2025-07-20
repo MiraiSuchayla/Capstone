@@ -1,18 +1,18 @@
 # Capstone
 
 # Hi! Welcome to my first repository
-here, I'd like to share my project from data science bootcamp learning in Purwadhika
+Here, I'd like to share my project from the data science bootcamp learning in Purwadhika
 
 1. Commodity Trading
-This application is allow user to do activity in commodity trading including 
+This application allows users to do activities in commodity trading, including: 
 - Read commodity watchlist
 - Delete commodity watchlist
-- Read user portofolio and trading balance
-- Add exsisting / buy new commodity to their portofolio
-- Processing raw commodity materials into end product to earn bigger profits
-- Sell commodity / product
+- Read the user's portfolio and trading balance
+- Add existing/buy new commodity to their portfolio
+- Processing raw commodity materials into an end product to earn bigger profits
+- Sell commodity/product
 
-With this application, writer could practically present create mini applications through python language with data collection, conditional statement, looping, regular function, etc.
+With this application, a writer could practically present mini applications through the Python language with data collection, conditional statements, looping, regular functions, etc.
 
-You are pleased to come and take a look at my portofolio,
-Terimakasih and have a good day!
+You are pleased to come and take a look at my portfolio,
+Terimakasih, and have a good day!
