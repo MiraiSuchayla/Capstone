@@ -1,6 +1,7 @@
 # Capstone
 
 # Hi! Welcome to my first repository
+
 Here, I'd like to share my project from the data science bootcamp learning in Purwadhika
 
 1. Commodity Trading
