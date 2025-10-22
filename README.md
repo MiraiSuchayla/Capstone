@@ -1,4 +1,4 @@
-# Capstone
+# CommodityTrading
 
 # Hi! Welcome to my first repository
 Here, I'd like to share one of my projects developed during the Purwadhika Digital School’s Data Science and Machine Learning Course. This is a mini application built using Python, designed to simulate simple yet insightful activities in commodity trading
